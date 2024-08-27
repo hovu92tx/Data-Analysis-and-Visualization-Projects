@@ -2,4 +2,5 @@ pandas
 matplotlib
 scikit-learn
 seaborn
-jupyter
+plotly
+
